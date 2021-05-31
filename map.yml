@@ -1,0 +1,3 @@
+map_name: zombieland
+games:
+- {game_name: Zombieland, file_name: Zombieland.xml}
